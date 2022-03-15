@@ -1,5 +1,6 @@
 {
   "name": "pcloud-pass",
+  "version": "1.0.0",
   "description": "A foundation for scalable desktop apps",
   "scripts": {
     "build": "concurrently \"npm run build:main\" \"npm run build:renderer\"",

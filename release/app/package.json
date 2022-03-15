@@ -1,11 +1,11 @@
 {
-  "name": "electron-react-boilerplate",
-  "version": "4.5.0",
+  "name": "pcloud-pass",
+  "version": "1.0.0",
   "description": "A foundation for scalable desktop apps",
   "main": "./dist/main/main.js",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
+    "name": "Ivan Markov",
+    "email": "ivan.markov@pcloud.com",
     "url": "https://github.com/electron-react-boilerplate"
   },
   "scripts": {
