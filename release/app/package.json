@@ -1,7 +1,7 @@
 {
   "name": "pcloud-pass",
   "version": "1.0.0",
-  "description": "A foundation for scalable desktop apps",
+  "description": "Password manager by pCloud",
   "main": "./dist/main/main.js",
   "author": {
     "name": "Ivan Markov",
