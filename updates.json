@@ -1,7 +1,7 @@
 {
 	"win32-x64-prod": {
-		"update": "https:\/\/p-sf1.pcloud.com\/cBZu1eKrMZQEbfTqZZZgnVer7Z2ZZZkZPF7pVZrHZrzZBpZpRZc5Z6pZopZ9pZApZGFZUJZkJZPpZkzZzA0kVZR2xXoKTIa6j9cEk22mW2nbC8eJwX\/pcloud",
-		"readme": "* Fixed login failure on some Linux distributions\n* Fixed Google login error\n* Other fixes and improvements\n",
+		"update": "https:\/\/p-sf1.pcloud.com\/cfZpAdyyPZTJooVOZnp3HZXZ9D0er7Z2ZZbFkZZM9n2VZwHZ1zZMzZXpZc0Z6JZSRZpHZLzZWHZvFZsRZ0VZFFZUrqDKBclfx0aAyOHHSf8yupKsec7\/pCloud%20Pass%20Setup%201.0.1.exe",
+		"readme": "Windows test updater 1.0.1 info",
 		"version": "1.0.1"
 	}
 }
