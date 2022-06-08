@@ -1,0 +1,7 @@
+{
+	"win32-x64-prod": {
+		"update": "https:\/\/p-sf1.pcloud.com\/cBZu1eKrMZQEbfTqZZZgnVer7Z2ZZZkZPF7pVZrHZrzZBpZpRZc5Z6pZopZ9pZApZGFZUJZkJZPpZkzZzA0kVZR2xXoKTIa6j9cEk22mW2nbC8eJwX\/pcloud",
+		"readme": "* Fixed login failure on some Linux distributions\n* Fixed Google login error\n* Other fixes and improvements\n",
+		"version": "1.0.1"
+	}
+}
